@@ -4,7 +4,7 @@
  * @since 0.0.1
  * @version 0.0.1
  */
-class Resta {
+public class Resta {
 	/**
 	 * Declaracion de la variable de tipo float del valor acumulado
 	 */
