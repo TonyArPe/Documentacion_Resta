@@ -1,11 +1,10 @@
-
 /**
  * Clase la cual tiene las distintas variaciones de numeros los cuales se pueden restar entre si
  * @author Antonio Manuel Aragon
  * @since 0.0.1
  * @version 0.0.1
  */
-public class Resta {
+class Resta {
 	/**
 	 * Declaracion de la variable de tipo float del valor acumulado
 	 */
